@@ -92,7 +92,7 @@ print(fi.mode)
 print(fi.tell())
 fi.close()
 
-
+#add comment
 if os.path.isfile("C:\\test\\test111.txt"):
     print("file exists")
     output = open("C:\\test\\test111.txt","r+")
